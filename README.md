@@ -28,7 +28,7 @@ As you destroy more asteroids, the game speeds up and it becomes harder to evade
 ## License
 
 ```
-Copyright 2018 James Fenn
+Copyright 2018 James Fenn Kaycee TKF
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
