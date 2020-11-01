@@ -1,0 +1,220 @@
+<METRICS profile="Lines of code metrics" timestamp="Sun, 1 Nov 2020 20:26:42 CET">
+	<METRIC category="Package" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="com.google.example.games.basegameutils" value="1989.0"/>
+		<VALUE measured="james.asteroid.data" value="380.0"/>
+		<VALUE measured="drawable" value="1432.0"/>
+		<VALUE measured="james.asteroid.data.drawer" value="226.0"/>
+		<VALUE measured="james.asteroid.activities" value="547.0"/>
+		<VALUE measured="james.asteroid.views" value="458.0"/>
+		<VALUE measured="values" value="118.0"/>
+		<VALUE measured="layout" value="192.0"/>
+		<VALUE measured="xml" value="5.0"/>
+		<VALUE measured="mipmap-anydpi-v26" value="10.0"/>
+		<VALUE measured="james.asteroid.services" value="126.0"/>
+		<VALUE measured="james.asteroid.utils" value="193.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of code (recursive)" abbreviation="LOC(rec)">
+		<VALUE measured="" value="5676.0"/>
+		<VALUE measured="com" value="1989.0"/>
+		<VALUE measured="com.google.example.games" value="1989.0"/>
+		<VALUE measured="com.google.example.games.basegameutils" value="1989.0"/>
+		<VALUE measured="james.asteroid.data" value="606.0"/>
+		<VALUE measured="drawable" value="1432.0"/>
+		<VALUE measured="james.asteroid.data.drawer" value="226.0"/>
+		<VALUE measured="james.asteroid.activities" value="547.0"/>
+		<VALUE measured="com.google" value="1989.0"/>
+		<VALUE measured="james.asteroid.views" value="458.0"/>
+		<VALUE measured="com.google.example" value="1989.0"/>
+		<VALUE measured="values" value="118.0"/>
+		<VALUE measured="james" value="1930.0"/>
+		<VALUE measured="layout" value="192.0"/>
+		<VALUE measured="xml" value="5.0"/>
+		<VALUE measured="mipmap-anydpi-v26" value="10.0"/>
+		<VALUE measured="james.asteroid.services" value="126.0"/>
+		<VALUE measured="james.asteroid" value="1930.0"/>
+		<VALUE measured="james.asteroid.utils" value="193.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of product code" abbreviation="LOCp">
+		<VALUE measured="com.google.example.games.basegameutils" value="1989.0"/>
+		<VALUE measured="james.asteroid.data" value="380.0"/>
+		<VALUE measured="drawable" value="1432.0"/>
+		<VALUE measured="james.asteroid.data.drawer" value="226.0"/>
+		<VALUE measured="james.asteroid.activities" value="547.0"/>
+		<VALUE measured="james.asteroid.views" value="458.0"/>
+		<VALUE measured="values" value="118.0"/>
+		<VALUE measured="layout" value="192.0"/>
+		<VALUE measured="xml" value="5.0"/>
+		<VALUE measured="mipmap-anydpi-v26" value="10.0"/>
+		<VALUE measured="james.asteroid.services" value="126.0"/>
+		<VALUE measured="james.asteroid.utils" value="193.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of product code (recursive)" abbreviation="LOCp(rec)">
+		<VALUE measured="" value="5676.0"/>
+		<VALUE measured="com" value="1989.0"/>
+		<VALUE measured="com.google.example.games" value="1989.0"/>
+		<VALUE measured="com.google.example.games.basegameutils" value="1989.0"/>
+		<VALUE measured="james.asteroid.data" value="606.0"/>
+		<VALUE measured="drawable" value="1432.0"/>
+		<VALUE measured="james.asteroid.data.drawer" value="226.0"/>
+		<VALUE measured="james.asteroid.activities" value="547.0"/>
+		<VALUE measured="com.google" value="1989.0"/>
+		<VALUE measured="james.asteroid.views" value="458.0"/>
+		<VALUE measured="com.google.example" value="1989.0"/>
+		<VALUE measured="values" value="118.0"/>
+		<VALUE measured="james" value="1930.0"/>
+		<VALUE measured="layout" value="192.0"/>
+		<VALUE measured="xml" value="5.0"/>
+		<VALUE measured="mipmap-anydpi-v26" value="10.0"/>
+		<VALUE measured="james.asteroid.services" value="126.0"/>
+		<VALUE measured="james.asteroid" value="1930.0"/>
+		<VALUE measured="james.asteroid.utils" value="193.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of test code" abbreviation="LOCt">
+		<VALUE measured="com.google.example.games.basegameutils" value="0.0"/>
+		<VALUE measured="james.asteroid.data" value="0.0"/>
+		<VALUE measured="drawable" value="0.0"/>
+		<VALUE measured="james.asteroid.data.drawer" value="0.0"/>
+		<VALUE measured="james.asteroid.activities" value="0.0"/>
+		<VALUE measured="james.asteroid.views" value="0.0"/>
+		<VALUE measured="values" value="0.0"/>
+		<VALUE measured="layout" value="0.0"/>
+		<VALUE measured="xml" value="0.0"/>
+		<VALUE measured="mipmap-anydpi-v26" value="0.0"/>
+		<VALUE measured="james.asteroid.services" value="0.0"/>
+		<VALUE measured="james.asteroid.utils" value="0.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of test code (recursive)" abbreviation="LOCt(rec)">
+		<VALUE measured="" value="0.0"/>
+		<VALUE measured="com" value="0.0"/>
+		<VALUE measured="com.google.example.games" value="0.0"/>
+		<VALUE measured="com.google.example.games.basegameutils" value="0.0"/>
+		<VALUE measured="james.asteroid.data" value="0.0"/>
+		<VALUE measured="drawable" value="0.0"/>
+		<VALUE measured="james.asteroid.data.drawer" value="0.0"/>
+		<VALUE measured="james.asteroid.activities" value="0.0"/>
+		<VALUE measured="com.google" value="0.0"/>
+		<VALUE measured="james.asteroid.views" value="0.0"/>
+		<VALUE measured="com.google.example" value="0.0"/>
+		<VALUE measured="values" value="0.0"/>
+		<VALUE measured="james" value="0.0"/>
+		<VALUE measured="layout" value="0.0"/>
+		<VALUE measured="xml" value="0.0"/>
+		<VALUE measured="mipmap-anydpi-v26" value="0.0"/>
+		<VALUE measured="james.asteroid.services" value="0.0"/>
+		<VALUE measured="james.asteroid" value="0.0"/>
+		<VALUE measured="james.asteroid.utils" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of Groovy" abbreviation="L(Groovy)">
+		<VALUE measured="Asteroid.BaseGameUtils" value="20.0"/>
+		<VALUE measured="Asteroid.app" value="60.0"/>
+		<VALUE measured="Asteroid" value="23.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of HTML" abbreviation="L(HTML)">
+		<VALUE measured="Asteroid.BaseGameUtils" value="0.0"/>
+		<VALUE measured="Asteroid.app" value="0.0"/>
+		<VALUE measured="Asteroid" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of Java" abbreviation="L(J)">
+		<VALUE measured="Asteroid.BaseGameUtils" value="1989.0"/>
+		<VALUE measured="Asteroid.app" value="1930.0"/>
+		<VALUE measured="Asteroid" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of Kotlin" abbreviation="L(KT)">
+		<VALUE measured="Asteroid.BaseGameUtils" value="0.0"/>
+		<VALUE measured="Asteroid.app" value="0.0"/>
+		<VALUE measured="Asteroid" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of XML" abbreviation="L(XML)">
+		<VALUE measured="Asteroid.BaseGameUtils" value="43.0"/>
+		<VALUE measured="Asteroid.app" value="1782.0"/>
+		<VALUE measured="Asteroid" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="Asteroid.BaseGameUtils" value="2052.0"/>
+		<VALUE measured="Asteroid.app" value="3798.0"/>
+		<VALUE measured="Asteroid" value="566.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of product code" abbreviation="LOCp">
+		<VALUE measured="Asteroid.BaseGameUtils" value="2010.0"/>
+		<VALUE measured="Asteroid.app" value="3666.0"/>
+		<VALUE measured="Asteroid" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of test code" abbreviation="LOCt">
+		<VALUE measured="Asteroid.BaseGameUtils" value="0.0"/>
+		<VALUE measured="Asteroid.app" value="0.0"/>
+		<VALUE measured="Asteroid" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Non-comment lines of code" abbreviation="NCLOC">
+		<VALUE measured="Asteroid.BaseGameUtils" value="1490.0"/>
+		<VALUE measured="Asteroid.app" value="3586.0"/>
+		<VALUE measured="Asteroid" value="312.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Non-comment lines of code (product)" abbreviation="NCLOCp">
+		<VALUE measured="Asteroid.BaseGameUtils" value="1459.0"/>
+		<VALUE measured="Asteroid.app" value="3479.0"/>
+		<VALUE measured="Asteroid" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Non-comment lines of code (test)" abbreviation="NCLOCt">
+		<VALUE measured="Asteroid.BaseGameUtils" value="0.0"/>
+		<VALUE measured="Asteroid.app" value="0.0"/>
+		<VALUE measured="Asteroid" value="0.0"/>
+	</METRIC>
+	<METRIC category="FileType" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="Java" value="3919.0"/>
+		<VALUE measured="Markdown language file" value="29.0"/>
+		<VALUE measured="Text" value="236.0"/>
+		<VALUE measured="JSON" value="12.0"/>
+		<VALUE measured="Groovy" value="103.0"/>
+		<VALUE measured="Properties" value="28.0"/>
+		<VALUE measured="YAML" value="78.0"/>
+		<VALUE measured="Shell Script" value="156.0"/>
+		<VALUE measured=".gitignore (GitIgnore)" value="9.0"/>
+		<VALUE measured="XML" value="1825.0"/>
+		<VALUE measured="Shrinker Config" value="21.0"/>
+	</METRIC>
+	<METRIC category="FileType" name="Non-comment lines of code" abbreviation="NCLOC">
+		<VALUE measured="Java" value="3181.0"/>
+		<VALUE measured="Markdown language file" value="29.0"/>
+		<VALUE measured="JSON" value="12.0"/>
+		<VALUE measured="Groovy" value="102.0"/>
+		<VALUE measured="Properties" value="9.0"/>
+		<VALUE measured="YAML" value="78.0"/>
+		<VALUE measured="Shell Script" value="154.0"/>
+		<VALUE measured=".gitignore (GitIgnore)" value="9.0"/>
+		<VALUE measured="XML" value="1814.0"/>
+		<VALUE measured="Shrinker Config" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of Groovy" abbreviation="L(Groovy)">
+		<VALUE measured="project" value="103.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of HTML" abbreviation="L(HTML)">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of Java" abbreviation="L(J)">
+		<VALUE measured="project" value="3919.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of Kotlin" abbreviation="L(KT)">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of XML" abbreviation="L(XML)">
+		<VALUE measured="project" value="1825.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="project" value="6416.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of product code" abbreviation="LOCp">
+		<VALUE measured="project" value="5676.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of test code" abbreviation="LOCt">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Non-comment lines of code" abbreviation="NCLOC">
+		<VALUE measured="project" value="5388.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Non-comment lines of code (product)" abbreviation="NCLOCp">
+		<VALUE measured="project" value="4938.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Non-comment lines of code (test)" abbreviation="NCLOCt">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+</METRICS>
